@@ -5,4 +5,4 @@ aşağıdaki linkten ulaşılabilir :
 
 [UniversiteYonetimSistemi](https://github.com/fatihcan48/OOP_ClassDiagram/blob/master/figures/UniversiteYonetimSistemi.PNG)
 
-[HayvanatBahcesi] ()
+[HayvanatBahcesi] (https://github.com/fatihcan48/OOP_ClassDiagram/blob/master/figures/HayvanatBahcesi.PNG)
